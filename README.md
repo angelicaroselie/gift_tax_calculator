@@ -1,7 +1,7 @@
-# This is a README file for the finnish gift tax calculator.
+# Python based Finnish gift tax calculator
 
-## Installation
+## Installation: 
 
-### Search information how to install python3 on your system.
-### Download the source code
-### Run the tax calculator with python3
+1. Search information how to install Python3 on your system.
+2. Download the source code
+3. Run the main file (gift_tax_calculator.py) with Python3
